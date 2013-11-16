@@ -1,7 +1,3 @@
-try{
-    var x = badVarName;
-} catch (err){
-    console.log(err.name + ': "' + err.message +  '" occurred when assigning x.');
-}
-
-
+var censor = require("censorify");
+console.log(censor.censoredWords);
+console.log(censor.censor("Some very sad, bad and mad text."));
