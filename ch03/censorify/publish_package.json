@@ -6,7 +6,7 @@
   "main": "censortext",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bwdayley/nodebook/tree/master/ch03/censorify"
+    "url": "http://github.com/bwdayley/nodebook/tree/master/ch03/censorify"
   },
   "keywords": [
     "censor",
